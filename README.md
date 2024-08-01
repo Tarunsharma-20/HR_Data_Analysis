@@ -46,4 +46,6 @@ In the initial data preparation phase, we performed the following tasks:
 ## Dashboard
 
 ### Light Mode
- 
+ ![Screenshot (83)](https://github.com/user-attachments/assets/d04fd369-6d5b-4ba5-b183-750446ce303d)
+
+### Dark Mode
